@@ -15,10 +15,10 @@ class URLTester (object):
 		-n uses negative test cases
 	"""
 
-	_DB_NAME = "appmgr"
+	_DB_NAME = "foobar"
 	_DB_HOST = "localhost"
-	_DB_USER = "integrator"
-	_DB_PASS = "rapid-shallow-breathing"
+	_DB_USER = "foo"
+	_DB_PASS = "bar"
 
 	_DNS_SERVERS = {
 			"us": "72.3.128.240",
